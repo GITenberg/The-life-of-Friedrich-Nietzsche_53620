@@ -1,0 +1,46 @@
+_repo: The-life-of-Friedrich-Nietzsche_53620
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Kettle, Tom
+    aliases:
+    - Kettle, T. M. (Thomas Michael)
+    - Kettle, Thomas Michael
+    birthdate: 1880
+    deathdate: 1916
+    gutenberg_agent_id: '5975'
+    url: http://www.gutenberg.org/2009/agents/5975
+    wikipedia: http://en.wikipedia.org/wiki/Tom_Kettle
+  translator:
+    agent_name: Hone, Joseph M. (Joseph Maunsell)
+    aliases:
+    - Hone, J. M. (Joseph Maunsell)
+    - Hone, Joseph Maunsell
+    - Marlowe, Nathaniel
+    birthdate: 1882
+    deathdate: 1959
+    gutenberg_agent_id: '47457'
+    url: http://www.gutenberg.org/2009/agents/47457
+creator:
+  author:
+    agent_name: Halévy, Daniel
+    alias: Halevy, Daniel
+    birthdate: 1872
+    deathdate: 1962
+    gutenberg_agent_id: '47456'
+    url: http://www.gutenberg.org/2009/agents/47456
+description: ''
+gutenberg_issued: '2016-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nietzsche, Friedrich Wilhelm, 1844-1900'
+- !lcc 'B'
+- GITenberg
+title: The life of Friedrich Nietzsche
+url: http://www.gutenberg.org/ebooks/53620
